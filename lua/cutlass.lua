@@ -87,7 +87,7 @@ function cutlass.create_cut_bindings()
 
   map("n", cutlass.options.cut_key, "d", keymap_opts_with_desc("Cut"))
   map("x", cutlass.options.cut_key, "d", keymap_opts_with_desc("Cut"))
-  map("n", cutlass.options.cut_key .. cutlass.options.cut_key, "dd", keymap_opts_with_desc("Cut line"))
+  map("o", cutlass.options.cut_key, "d", keymap_opts_with_desc("Cut"))
   map("n", string.upper(cutlass.options.cut_key), "D", keymap_opts_with_desc("Cut until EOL"))
 end
 
