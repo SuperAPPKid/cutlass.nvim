@@ -29,7 +29,7 @@ function cutlass.setup(options)
   cutlass.options = with_defaults(options or {})
 
   cutlass.override_delete_and_change_bindings()
-  cutlass.override_select_bindings()
+  -- cutlass.override_select_bindings()
   cutlass.create_cut_bindings()
 end
 
