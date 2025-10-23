@@ -11,6 +11,7 @@ Table of Contents                             *cutlass.nvim-table-of-contents*
   - ⚙️ Configuration|cutlass.nvim-✂️-cutlass.nvim-⚙️-configuration|
   - 🤝 Integration       |cutlass.nvim-✂️-cutlass.nvim-🤝-integration|
   - 🎉 Credits               |cutlass.nvim-✂️-cutlass.nvim-🎉-credits|
+2. Links                                                  |cutlass.nvim-links|
 
 ==============================================================================
 1. ✂️ cutlass.nvim                      *cutlass.nvim-✂️-cutlass.nvim*
